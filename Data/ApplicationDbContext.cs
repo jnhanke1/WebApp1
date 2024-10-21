@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-using Microsoft.AspNetCore.Identity; 
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace WebApp1.Data;
+namespace BuffPortal.UI.Data;
 
 public class ApplicationDbContext : IdentityDbContext<IdentityUser>
 {
@@ -11,7 +11,7 @@ public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     {
     }
 
-        protected override void OnModelCreating(ModelBuilder builder)
+    protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);
         // Customize the ASP.NET Identity model and override the defaults if needed.

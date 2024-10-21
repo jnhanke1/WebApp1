@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Authorization; 
 using Microsoft.Extensions.Logging; 
 
-namespace WebApp1.Pages
+namespace BuffPortal.UI.Pages
 {
     [Authorize]
     public class PrivacyModel : PageModel

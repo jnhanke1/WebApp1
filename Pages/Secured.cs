@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Authorization; 
-using Microsoft.Extensions.Logging; 
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.Extensions.Logging;
 
-namespace WebApp1.Pages
+namespace BuffPortal.UI.Pages
 {
     [Authorize]
     public class SecuredModel : PageModel
@@ -18,6 +18,6 @@ namespace WebApp1.Pages
         public void OnGet()
         {
         }
-}
+    }
 }
 

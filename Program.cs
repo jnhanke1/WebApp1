@@ -1,8 +1,7 @@
+using BuffPortal.UI.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using WebApp1.Data;
-using WebApp1.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
