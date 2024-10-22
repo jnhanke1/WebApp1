@@ -8369,23 +8369,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\QuadeLancaster\\.nuget\\packages\\": {},
+    "C:\\Users\\jessi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QuadeLancaster\\Source\\Repos\\WebApp1\\BuffPortal.UI.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\Documents\\Jessica - College\\CIDM 4390\\CIDM4390-Fall2024-TeamMaui\\WebApp1\\BuffPortal.UI.csproj",
       "projectName": "BuffPortal.UI",
-      "projectPath": "C:\\Users\\QuadeLancaster\\Source\\Repos\\WebApp1\\BuffPortal.UI.csproj",
-      "packagesPath": "C:\\Users\\QuadeLancaster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QuadeLancaster\\Source\\Repos\\WebApp1\\obj\\",
+      "projectPath": "C:\\Users\\jessi\\Documents\\Jessica - College\\CIDM 4390\\CIDM4390-Fall2024-TeamMaui\\WebApp1\\BuffPortal.UI.csproj",
+      "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jessi\\Documents\\Jessica - College\\CIDM 4390\\CIDM4390-Fall2024-TeamMaui\\WebApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\QuadeLancaster\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
